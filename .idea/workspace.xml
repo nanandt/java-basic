@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TipeDataChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TipeDataChar">
+  <component name="RunManager" selected="Application.TipeDataBoolean">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="java-dasar" />
@@ -50,6 +50,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TipeDataBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TipeDataBoolean" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TipeDataChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataChar" />
       <module name="java-dasar" />
@@ -59,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TipeDataBoolean" />
         <item itemvalue="Application.TipeDataChar" />
         <item itemvalue="Application.KonversiNumber" />
         <item itemvalue="Application.HelloWorld" />
@@ -75,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617901544498</updated>
-      <workItem from="1617901546139" duration="2020000" />
+      <workItem from="1617901546139" duration="2150000" />
     </task>
     <servers />
   </component>
@@ -83,22 +91,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617903602347">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617903753252">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617903602347" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617903602346">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617903753252">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617903602346" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617903602345">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617903753251">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617903602345" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617903602347">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617903753251" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617903753252">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617903602347" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1617902642903">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
