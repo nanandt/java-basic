@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TipeDataBoolean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,31 +34,39 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TipeDataBoolean">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Variable">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KonversiNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="KonversiNumber" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KonversiNumber" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TipeDataBoolean" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataBoolean" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipeDataChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="TipeDataChar" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TipeDataChar" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Variable" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,10 +74,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TipeDataBoolean" />
-        <item itemvalue="Application.TipeDataChar" />
-        <item itemvalue="Application.KonversiNumber" />
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -83,7 +88,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1617901544498</updated>
-      <workItem from="1617901546139" duration="2150000" />
+      <workItem from="1617901546139" duration="2299000" />
+      <workItem from="1617981877970" duration="523000" />
+      <workItem from="1617982439398" duration="42000" />
+      <workItem from="1617982812333" duration="30000" />
+      <workItem from="1617983428432" duration="2797000" />
     </task>
     <servers />
   </component>
@@ -91,22 +100,38 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617903753252">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617985472126">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617903753252">
+    <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985472126" />
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1617984480181">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617903753251">
+    <state x="412" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1617984480181" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1617985393995">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617903753251" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617903753252">
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985393995" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617985931066">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617903753252" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617985931066" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617985931066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617985931066" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617985931065">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617985931065" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617985931066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617985931066" />
+    <state x="419" y="80" key="RollbackChangesDialog" timestamp="1617985223444">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="419" y="80" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985223444" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1617902642903">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
