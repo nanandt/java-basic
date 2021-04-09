@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/OperasiMtk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +35,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.OperasiMtk">
+  <component name="RunManager" selected="Application.OperasiPerbandingan">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="java-dasar" />
@@ -60,6 +59,13 @@
     </configuration>
     <configuration name="OperasiMtk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OperasiMtk" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperasiPerbandingan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiPerbandingan" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OperasiPerbandingan" />
         <item itemvalue="Application.OperasiMtk" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.TipeDataBukanPrimitif" />
@@ -116,7 +123,7 @@
       <workItem from="1617981877970" duration="523000" />
       <workItem from="1617982439398" duration="42000" />
       <workItem from="1617982812333" duration="30000" />
-      <workItem from="1617983428432" duration="5432000" />
+      <workItem from="1617983428432" duration="5676000" />
     </task>
     <servers />
   </component>
@@ -136,22 +143,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985393995" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617989121626">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617989287549">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617989121626" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617989121625">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617989287549" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617989287548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617989121625" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617989121624">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617989287548" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617989287547">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617989121624" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617989121625">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617989287547" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617989287548">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617989121625" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617989287548" />
     <state x="419" y="80" key="RollbackChangesDialog" timestamp="1617985223444">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
