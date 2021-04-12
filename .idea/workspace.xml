@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IfStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TernaryOperator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-dasar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-dasar.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/Array.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/Array.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/IfStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/IfStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/KonversiNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/KonversiNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/OperasiBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/OperasiBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/OperasiMtk.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/OperasiMtk.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/OperasiPerbandingan.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/OperasiPerbandingan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/TipeDataBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/TipeDataBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/TipeDataBukanPrimitif.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/TipeDataBukanPrimitif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/TipeDataChar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/TipeDataChar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/TipeDataNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/TipeDataNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-dasar/Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +51,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.IfStatement">
+  <component name="RunManager" selected="Application.TernaryOperator">
     <configuration name="Block" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Block" />
       <module name="java-dasar" />
@@ -72,15 +92,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiMtk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiMtk" />
+    <configuration name="SwitchStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchStatement" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OperasiPerbandingan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OperasiPerbandingan" />
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TernaryOperator" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.SwitchStatement" />
         <item itemvalue="Application.IfStatement" />
         <item itemvalue="Application.Block" />
         <item itemvalue="Application.OperasiBoolean" />
-        <item itemvalue="Application.OperasiMtk" />
-        <item itemvalue="Application.OperasiPerbandingan" />
       </list>
     </recent_temporary>
   </component>
@@ -125,7 +145,8 @@
       <workItem from="1617982439398" duration="42000" />
       <workItem from="1617982812333" duration="30000" />
       <workItem from="1617983428432" duration="5676000" />
-      <workItem from="1618241351660" duration="1105000" />
+      <workItem from="1618241351660" duration="1847000" />
+      <workItem from="1618243219977" duration="1607000" />
     </task>
     <servers />
   </component>
@@ -133,6 +154,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="275" y="27" key="#Project_Structure" timestamp="1618244631235">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="27" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1618244631235" />
     <state x="137" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617985472126">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -145,26 +170,34 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985393995" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1618242452769">
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1618243815708">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618242452769" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1618242452768">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1618243815708" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1618244874519">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618242452768" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1618242452768">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618244874519" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1618244874519">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618242452768" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1618242452768">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618244874519" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1618244874519">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618242452768" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618244874519" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1618244874519">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618244874519" />
     <state x="419" y="80" key="RollbackChangesDialog" timestamp="1617985223444">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="419" y="80" key="RollbackChangesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985223444" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1618243280950">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1618243280950" />
     <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1617902642903">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
