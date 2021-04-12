@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/OperasiBoolean.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-dasar/META-INF/java-dasar.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +37,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.OperasiPerbandingan">
+  <component name="RunManager" selected="Application.OperasiBoolean">
     <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Array" />
       <module name="java-dasar" />
@@ -52,6 +54,13 @@
     </configuration>
     <configuration name="KonversiNumber" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KonversiNumber" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperasiBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperasiBoolean" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variable" />
-      <module name="java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OperasiPerbandingan" />
+        <item itemvalue="Application.OperasiBoolean" />
         <item itemvalue="Application.OperasiMtk" />
+        <item itemvalue="Application.OperasiPerbandingan" />
         <item itemvalue="Application.Array" />
         <item itemvalue="Application.TipeDataBukanPrimitif" />
-        <item itemvalue="Application.Variable" />
       </list>
     </recent_temporary>
   </component>
@@ -124,6 +126,7 @@
       <workItem from="1617982439398" duration="42000" />
       <workItem from="1617982812333" duration="30000" />
       <workItem from="1617983428432" duration="5676000" />
+      <workItem from="1618241351660" duration="182000" />
     </task>
     <servers />
   </component>
@@ -143,22 +146,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1617985393995" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1617989287549">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1618241415912">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1617989287549" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1617989287548">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618241415912" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1618241415912">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1617989287548" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1617989287547">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618241415912" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1618241415911">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1617989287547" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1617989287548">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618241415911" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1618241415912">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1617989287548" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618241415912" />
     <state x="419" y="80" key="RollbackChangesDialog" timestamp="1617985223444">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
