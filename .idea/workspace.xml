@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9681e0e7-3e87-42de-9734-45b4310d221b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DoWhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,14 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.WhileLoop">
+  <component name="RunManager" selected="Application.DoWhileLoop">
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DoWhileLoop" />
+      <module name="java-dasar" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForLoop" />
       <module name="java-dasar" />
@@ -50,13 +57,6 @@
     </configuration>
     <configuration name="HelloWorld" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
-      <module name="java-dasar" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfStatement" />
       <module name="java-dasar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
         <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.TernaryOperator" />
         <item itemvalue="Application.SwitchStatement" />
-        <item itemvalue="Application.IfStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <workItem from="1617982812333" duration="30000" />
       <workItem from="1617983428432" duration="5676000" />
       <workItem from="1618241351660" duration="1847000" />
-      <workItem from="1618243219977" duration="2519000" />
+      <workItem from="1618243219977" duration="2808000" />
     </task>
     <servers />
   </component>
@@ -158,22 +158,22 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1618243815708" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1618245764613">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1618246052558">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618245764613" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1618245764612">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1618246052558" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1618246052557">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618245764612" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1618245764612">
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1618246052557" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1618246052557">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618245764612" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1618245764612">
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1618246052557" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1618246052557">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618245764612" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1618246052557" />
     <state x="419" y="80" key="RollbackChangesDialog" timestamp="1617985223444">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
